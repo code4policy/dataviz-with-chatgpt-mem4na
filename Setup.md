@@ -44,6 +44,7 @@ error: externally-managed-environment
 5. **Install your package:**
 
    ```bash
+   python3 -m http.server
    pip3 install pandas
    ```
 
